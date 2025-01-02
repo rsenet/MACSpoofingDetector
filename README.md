@@ -1,4 +1,4 @@
-# About apkFram
+# About MACSpoofingDetector
 
 **MACSpoofingDetector** was written in order to quickly allow any system administrator to identify a Rogue Access Point based on Sequence Number usurpation.
 
@@ -54,7 +54,7 @@ Régis SENET ([rsenet](https://github.com/rsenet))
 
 ## Contributing
 
-Bug reports and pull requests are welcome on [GitHub](https://github.com/rsenet/apkfram).
+Bug reports and pull requests are welcome on [GitHub](https://github.com/rsenet/MACSpoofingDetector).
 
 ## License
 
